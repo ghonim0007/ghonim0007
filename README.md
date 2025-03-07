@@ -66,11 +66,11 @@
 
 ###
 
-<h4 align="center">🔥 Training & Ongoing Projects</h4>
+<h4 align="left">🔥 Training & Ongoing Projects</h4>
 
 ###
 
-<p align="center">📌 Trained in Full-stack Web Development Using Python at ITI - Information Technology Institute<br>🔹 This practical program covered frontend and backend development, enabling me to build dynamic and responsive web applications using modern tools and frameworks.<br><br>📌 ALX Data Science Programme (16-month intensive training)<br>📌 ALX Professional Foundations (Soft skills & teamwork enhancement)</p>
+<p align="left">📌 Trained in Full-stack Web Development Using Python at ITI - Information Technology Institute<br>🔹 This practical program covered frontend and backend development, enabling me to build dynamic and responsive web applications using modern tools and frameworks.<br><br>📌 ALX Data Science Programme (16-month intensive training)<br>📌 ALX Professional Foundations (Soft skills & teamwork enhancement)</p>
 
 ###
 
