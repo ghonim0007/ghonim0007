@@ -1,29 +1,47 @@
-# Abdulrahman Ahmed Ghoneim
+# Hi there! 👋 I'm Abdulrahman Ahmed
 
-**Email**: [ghonem717@gmail.com](mailto:ghonem717@gmail.com)
+## 🌍 Geospatial Data Science Specialist | Python & R Developer
 
-## Objective
-As a skilled GIS Specialist with a Bachelor's degree in Geographic Information Systems, Planning Sciences, and Remote Sensing from Damietta University, my goal is to leverage my expertise in spatial data analysis, GIS software, and programming to drive innovative, data-driven solutions in a professional setting. I am committed to applying my skills in GIS, remote sensing, and database management to support organizational success while advancing my career in geospatial technologies.
+### 📌 About Me
+I am a Geospatial Data Science Specialist with expertise in GIS, Spatial Analysis, and Full-Stack Web Development. My passion lies in leveraging technology and data-driven insights to solve spatial problems and build scalable web applications.
 
-## Core Competencies
+### 🚀 Skills & Technologies
 
-- **GIS & Spatial Analysis**:  
-  Spatial Data Analysis, ArcGIS Enterprise, ArcMap, ArcGIS Pro, ESRI Dashboard  
+#### 🗺️ GIS & Spatial Analysis
+- Spatial Data Analysis
+- ArcGIS Enterprise, ArcMap, ArcGIS Pro
+- ESRI Dashboard
+- Remote Sensing & Geographic Analysis
 
-- **Remote Sensing**:  
-  Envi 5, NDVI, NDBI, ERDAS  
+#### 💻 Full-Stack Web Development
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Python, Django, Node.js
+- **Databases:** MySQL
+- **OS & DevOps:** Ubuntu, Linux
 
-- **Programming & Development**:  
-  Python, Flask API Development, OCR Systems, WebApp Builder  
+#### 📊 Data Science & Machine Learning
+- Python & R for Geospatial Analysis
+- Data Cleaning & Visualization
+- Machine Learning for GIS
+- Predictive Analytics
 
-- **Database Management**:  
-  RDBMS (Oracle, SQL)  
+### 🎓 Education
+**Damietta University**  
+Studied Geographic Information Systems (GIS), Surveying Sciences, and Planning. Developed strong expertise in spatial analysis, remote sensing, and GIS technologies.
 
-- **Data Visualization**:  
-  Excel, Power BI, Tableau  
+### 📜 Certifications
+- **Harnessing AI and Machine Learning for Geospatial Analysis** - Udemy
+  - Credential ID: UC-30129c15-66ee-46cc-abec-e81ef3e438ae
+- **Python Web Developer Masterclass - Build 6 Websites** - Udemy
+  - Credential ID: UC-95fd619a-54dc-49d9-b8d4-cf4cc2e84d80
 
-- **Technical Skills**:  
-  Data Collection & Management, AutoCAD  
+### 🔥 Ongoing Training & Projects
+- **ALX Data Science Programme** (16-month intensive training)
+- **ALX Professional Foundations** (Soft skills & teamwork enhancement)
 
-## About Me
-I am passionate about utilizing GIS and remote sensing technologies to create actionable insights and solutions for complex spatial problems. With a strong foundation in data management and programming, I aim to continuously improve my skillset and contribute to cutting-edge projects in the GIS and data science fields.
+### 📫 Connect with Me
+- GitHub: [Your GitHub Link](#)
+- LinkedIn: [Your LinkedIn Profile](#)
+- Email: [Your Email](#)
+
+Let's innovate and create together! 🚀
