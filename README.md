@@ -1,47 +1,89 @@
-# Hi there! 👋 I'm Abdulrahman Ahmed
+<h1 align="left">Hi there! 👋 I'm Abdulrahman Ahmed</h1>
 
-## 🌍 Geospatial Data Science Specialist | Python & R Developer
+###
 
-### 📌 About Me
-I am a Geospatial Data Science Specialist with expertise in GIS, Spatial Analysis, and Full-Stack Web Development. My passion lies in leveraging technology and data-driven insights to solve spatial problems and build scalable web applications.
+<p align="left">🌍 Geospatial Data Science Specialist | Python & R Developer</p>
 
-### 🚀 Skills & Technologies
+###
 
-#### 🗺️ GIS & Spatial Analysis
-- Spatial Data Analysis
-- ArcGIS Enterprise, ArcMap, ArcGIS Pro
-- ESRI Dashboard
-- Remote Sensing & Geographic Analysis
+<h2 align="left">About me</h2>
 
-#### 💻 Full-Stack Web Development
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python, Django, Node.js
-- **Databases:** MySQL
-- **OS & DevOps:** Ubuntu, Linux
+###
 
-#### 📊 Data Science & Machine Learning
-- Python & R for Geospatial Analysis
-- Data Cleaning & Visualization
-- Machine Learning for GIS
-- Predictive Analytics
+<p align="left">I am a Geospatial Data Science Specialist with expertise in 🌍 GIS, 📊 Spatial Analysis, and 💻 Full-Stack Web Development. My passion lies in leveraging technology and data-driven insights to solve spatial problems and build scalable web applications.</p>
 
-### 🎓 Education
-**Damietta University**  
-Studied Geographic Information Systems (GIS), Surveying Sciences, and Planning. Developed strong expertise in spatial analysis, remote sensing, and GIS technologies.
+###
 
-### 📜 Certifications
-- **Harnessing AI and Machine Learning for Geospatial Analysis** - Udemy
-  - Credential ID: UC-30129c15-66ee-46cc-abec-e81ef3e438ae
-- **Python Web Developer Masterclass - Build 6 Websites** - Udemy
-  - Credential ID: UC-95fd619a-54dc-49d9-b8d4-cf4cc2e84d80
+<h2 align="left">I code with</h2>
 
-### 🔥 Ongoing Training & Projects
-- **ALX Data Science Programme** (16-month intensive training)
-- **ALX Professional Foundations** (Soft skills & teamwork enhancement)
+###
 
-### 📫 Connect with Me
-- GitHub: [Your GitHub Link](#)
-- LinkedIn: [Your LinkedIn Profile](#)
-- Email: [Your Email](#)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+</div>
 
-Let's innovate and create together! 🚀
+###
+
+<h4 align="left">🚀 Skills & Technologies</h4>
+
+###
+
+<p align="left">🗺️ GIS & Spatial Analysis<br><br>🛰️ Spatial Data Analysis📌 ArcGIS Enterprise, ArcMap, ArcGIS Pro📊 ESRI Dashboard🌍 Remote Sensing & Geographic Analysis<br><br>💻 Full-Stack Web Development<br><br>🎨 Frontend:   🖥️ Backend:   🗄️ Databases: 🖥️ OS & DevOps:  <br><br>📊 Data Science & Machine Learning<br><br>🐍 Python & R for Geospatial Analysis🧹 Data Cleaning & Visualization🤖 Machine Learning for GIS📈 Predictive Analytics</p>
+
+###
+
+<h4 align="center">🔥 Training & Ongoing Projects</h4>
+
+###
+
+<p align="center">📌 Trained in Full-stack Web Development Using Python at ITI - Information Technology Institute<br>🔹 This practical program covered frontend and backend development, enabling me to build dynamic and responsive web applications using modern tools and frameworks.<br><br>📌 ALX Data Science Programme (16-month intensive training)<br>📌 ALX Professional Foundations (Soft skills & teamwork enhancement)</p>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abdulrahman-ahmed-54b65b265/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Abdulrahman_G7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/abd_elrahman____ghoneim?igsh=Y3lwNTA1M3k1YWJw" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
