@@ -4,6 +4,8 @@
 
 <p align="left">🌍 Geospatial Data Science Specialist | Python & R Developer</p>
 
+![](https://i.gifer.com/GfqV.gif)
+
 ###
 
 <h2 align="left">About me</h2>
