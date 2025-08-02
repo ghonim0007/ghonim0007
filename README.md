@@ -1,7 +1,6 @@
 # Abdulrahman Ghoneim
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahman--Ahmed-blue?logo=linkedin)](https://www.linkedin.com/in/abdulrahman-ahmed-54b65b265/)  
-[![GitHub](https://img.shields.io/badge/GitHub-ghonim0007-green?logo=github)](https://github.com/ghonim0007)  
 [![Email](https://img.shields.io/badge/Email-ghonem717@gmail.com-red?logo=gmail)](mailto:ghonem717@gmail.com)  
 [![Mobile](https://img.shields.io/badge/Mobile-%2B201010431015-green?logo=whatsapp)](tel:+201010431015)
 
