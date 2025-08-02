@@ -1,97 +1,37 @@
-<h1 align="left">Hi there! 👋 I'm Abdulrahman Ahmed</h1>
+# Abdulrahman Ghoneim
 
-###
+[](https://www.linkedin.com/in/abdulrahman-ahmed-54b65b265/)
+[](https://www.google.com/search?q=https://github.com/ghonim0007)
+[](mailto:ghonem717@gmail.com)
+[cite\_start]GIS Developer with a certification in Full-Stack Web Development (Python) from ITI[cite: 4]. [cite\_start]I am proficient in backend development using Django and Flask, and have strong frontend skills in HTML, CSS, JavaScript, and React[cite: 5]. [cite\_start]I have experience with geospatial analysis using ArcGIS and QGIS, as well as database management with PostgreSQL and PostGIS[cite: 6]. [cite\_start]My focus is on creating efficient, user-centric applications, and I excel in collaborative environments to produce high-quality geospatial and web solutions[cite: 7, 8].
 
-<p align="left">🌍 Geospatial Data Science Specialist | Python & R Developer</p>
+-----
 
-![](https://i.gifer.com/GfqV.gif)
+### Education & Training
 
-###
+  * [cite\_start]**4-Month Postgraduate Diploma, Intensive Training Program** at the Information Technology Institute (ITI) in Port Said, Egypt, from March 2025 to the present[cite: 10, 11]. [cite\_start]The track is Full-stack Web Development Using Python, and I have acquired skills in Python, Django, Flask, Front-end (HTML, CSS, JavaScript, React), and Databases (PostgreSQL, PostGIS)[cite: 12, 13].
+  * [cite\_start]**Bachelor's Degree in Geography** with a specialization in GIS, Remote Sensing, and Surveying from Damietta University, Faculty of Arts (2020-2024)[cite: 14, 15].
+  * [cite\_start]**Intensive Code Camp (ICC)** at the Information Technology Institute (ITI) from February 23, 2025, to June 26, 2025[cite: 17].
+  * [cite\_start]**Training on GIS fundamentals and remote sensing basics** at the National Authority for Remote Sensing & Space Sciences (NARSS) in August 2024[cite: 18, 19].
 
-<h2 align="left">About me</h2>
+-----
 
-###
+### Technical Skills
 
-<p align="left">I am a Geospatial Data Science Specialist with expertise in 🌍 GIS, 📊 Spatial Analysis, and 💻 Full-Stack Web Development. My passion lies in leveraging technology and data-driven insights to solve spatial problems and build scalable web applications.</p>
+  * [cite\_start]**Programming & Frameworks:** Python, SQL, Django, Flask, GeoDjango [cite: 24]
+  * [cite\_start]**Web Technologies:** HTML, CSS, JavaScript, React, Leaflet, ArcGIS JS SDK [cite: 25]
+  * [cite\_start]**GIS Software:** ArcGIS Pro/Online, QGIS, Erdas Imagine, Envi 5, GeoServer [cite: 26]
+  * [cite\_start]**Databases:** PostgreSQL, MySQL, PostGIS [cite: 27]
+  * [cite\_start]**Python Libraries:** Pandas, GeoPandas, NumPy, Matplotlib, ArcPy [cite: 28]
 
-###
+-----
 
-<h2 align="left">I code with</h2>
+### Projects
 
-###
+  * [cite\_start]**Crowdfunding Console App (ITI):** A command-line crowdfunding application built with Python that includes user and project management, and uses JSON for data persistence[cite: 30, 31].
+  * [cite\_start]**Crowd FundingApp (ITI Project):** A full-stack web application for crowdfunding campaigns using React.js, Django REST, and PostgreSQL[cite: 32, 33].
+  * **GeoJSON to Shapefile Converter:** A client-side tool to convert GeoJSON to a Shapefile and export it as a ZIP file. [cite\_start]It currently supports Point geometry[cite: 34, 35].
+  * [cite\_start]**Route Optimization in Python:** A project that solved a Vehicle Routing Problem (VRP) for 10 stops in Cairo using network analysis and optimization[cite: 36, 37].
+  * [cite\_start]**Graduation Project - Optimizing Private Basic School Bus Routes in New Damietta (2024):** Designed a web map for school bus routes with spatial analysis and collaborated on data collection and visualization[cite: 38, 39].
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-
-<h4 align="left">🚀 Skills & Technologies</h4>
-
-###
-
-<p align="left">🗺️ GIS & Spatial Analysis<br><br>🛰️ Spatial Data Analysis📌 ArcGIS Enterprise, ArcMap, ArcGIS Pro📊 ESRI Dashboard🌍 Remote Sensing & Geographic Analysis<br><br>💻 Full-Stack Web Development<br><br>🎨 Frontend:   🖥️ Backend:   🗄️ Databases: 🖥️ OS & DevOps:  <br><br>📊 Data Science & Machine Learning<br><br>🐍 Python & R for Geospatial Analysis🧹 Data Cleaning & Visualization🤖 Machine Learning for GIS📈 Predictive Analytics</p>
-
-###
-
-<h4 align="left">🔥 Training & Ongoing Projects</h4>
-
-###
-
-<p align="left">📌 Trained in Full-stack Web Development Using Python at ITI - Information Technology Institute<br>🔹 This practical program covered frontend and backend development, enabling me to build dynamic and responsive web applications using modern tools and frameworks.<br><br>📌 ALX Data Science Programme (16-month intensive training)<br>📌 ALX Professional Foundations (Soft skills & teamwork enhancement)</p>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/abdulrahman-ahmed-54b65b265/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Abdulrahman_G7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/abd_elrahman____ghoneim?igsh=Y3lwNTA1M3k1YWJw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+-----
