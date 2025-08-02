@@ -1,37 +1,51 @@
 # Abdulrahman Ghoneim
 
-[](https://www.linkedin.com/in/abdulrahman-ahmed-54b65b265/)
-[](https://www.google.com/search?q=https://github.com/ghonim0007)
-[](mailto:ghonem717@gmail.com)
-[cite\_start]GIS Developer with a certification in Full-Stack Web Development (Python) from ITI[cite: 4]. [cite\_start]I am proficient in backend development using Django and Flask, and have strong frontend skills in HTML, CSS, JavaScript, and React[cite: 5]. [cite\_start]I have experience with geospatial analysis using ArcGIS and QGIS, as well as database management with PostgreSQL and PostGIS[cite: 6]. [cite\_start]My focus is on creating efficient, user-centric applications, and I excel in collaborative environments to produce high-quality geospatial and web solutions[cite: 7, 8].
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahman--Ahmed-blue?logo=linkedin)](https://www.linkedin.com/in/abdulrahman-ahmed-54b65b265/)  
+[![GitHub](https://img.shields.io/badge/GitHub-ghonim0007-green?logo=github)](https://github.com/ghonim0007)  
+[![Email](https://img.shields.io/badge/Email-ghonem717@gmail.com-red?logo=gmail)](mailto:ghonem717@gmail.com)  
+[![Mobile](https://img.shields.io/badge/Mobile-%2B201010431015-green?logo=whatsapp)](tel:+201010431015)
 
------
+---
 
-### Education & Training
+## Professional Summary
 
-  * [cite\_start]**4-Month Postgraduate Diploma, Intensive Training Program** at the Information Technology Institute (ITI) in Port Said, Egypt, from March 2025 to the present[cite: 10, 11]. [cite\_start]The track is Full-stack Web Development Using Python, and I have acquired skills in Python, Django, Flask, Front-end (HTML, CSS, JavaScript, React), and Databases (PostgreSQL, PostGIS)[cite: 12, 13].
-  * [cite\_start]**Bachelor's Degree in Geography** with a specialization in GIS, Remote Sensing, and Surveying from Damietta University, Faculty of Arts (2020-2024)[cite: 14, 15].
-  * [cite\_start]**Intensive Code Camp (ICC)** at the Information Technology Institute (ITI) from February 23, 2025, to June 26, 2025[cite: 17].
-  * [cite\_start]**Training on GIS fundamentals and remote sensing basics** at the National Authority for Remote Sensing & Space Sciences (NARSS) in August 2024[cite: 18, 19].
+Geographic Information Systems (GIS) Developer with a specialization in Full-Stack Web Development (Python) certified by the Information Technology Institute (ITI). I bring solid experience in backend development using Django and Flask, and well-rounded frontend capabilities using HTML, CSS, JavaScript, and React. I have hands-on experience in geospatial data processing using ArcGIS and QGIS, and in managing spatial databases via PostgreSQL/PostGIS. I focus on developing scalable, efficient, and user-oriented applications within collaborative and agile environments.
 
------
+---
 
-### Technical Skills
+## Education & Training
 
-  * [cite\_start]**Programming & Frameworks:** Python, SQL, Django, Flask, GeoDjango [cite: 24]
-  * [cite\_start]**Web Technologies:** HTML, CSS, JavaScript, React, Leaflet, ArcGIS JS SDK [cite: 25]
-  * [cite\_start]**GIS Software:** ArcGIS Pro/Online, QGIS, Erdas Imagine, Envi 5, GeoServer [cite: 26]
-  * [cite\_start]**Databases:** PostgreSQL, MySQL, PostGIS [cite: 27]
-  * [cite\_start]**Python Libraries:** Pandas, GeoPandas, NumPy, Matplotlib, ArcPy [cite: 28]
+- **Postgraduate Diploma in Full-Stack Web Development**  
+  *Information Technology Institute (ITI), Port Said — Mar 2025 – Present*  
+  Technologies: Python, Django, Flask, PostgreSQL, PostGIS, React, RESTful APIs, Git
 
------
+- **Bachelor’s Degree in Geography (GIS, Remote Sensing, Surveying)**  
+  *Damietta University, Faculty of Arts — 2020 – 2024*
 
-### Projects
+- **Intensive Code Camp (ICC)**  
+  *Information Technology Institute (ITI) — Feb 23, 2025 – Jun 26, 2025*
 
-  * [cite\_start]**Crowdfunding Console App (ITI):** A command-line crowdfunding application built with Python that includes user and project management, and uses JSON for data persistence[cite: 30, 31].
-  * [cite\_start]**Crowd FundingApp (ITI Project):** A full-stack web application for crowdfunding campaigns using React.js, Django REST, and PostgreSQL[cite: 32, 33].
-  * **GeoJSON to Shapefile Converter:** A client-side tool to convert GeoJSON to a Shapefile and export it as a ZIP file. [cite\_start]It currently supports Point geometry[cite: 34, 35].
-  * [cite\_start]**Route Optimization in Python:** A project that solved a Vehicle Routing Problem (VRP) for 10 stops in Cairo using network analysis and optimization[cite: 36, 37].
-  * [cite\_start]**Graduation Project - Optimizing Private Basic School Bus Routes in New Damietta (2024):** Designed a web map for school bus routes with spatial analysis and collaborated on data collection and visualization[cite: 38, 39].
+- **Remote Sensing & GIS Fundamentals Training**  
+  *National Authority for Remote Sensing & Space Sciences (NARSS) — Aug 2024*
 
------
+---
+
+## Technical Skills
+
+**Programming & Scripting:** Python, JavaScript, HTML5, CSS3, Bash  
+**Backend Frameworks:** Django, Flask, FastAPI  
+**Frontend Libraries/Frameworks:** React.js, Bootstrap  
+**GIS Tools:** ArcGIS, QGIS  
+**Database Systems:** PostgreSQL, PostGIS, SQLAlchemy, MS SQL Server  
+**Data Analysis & Scientific Libraries:** Pandas, NumPy, OpenCV  
+**Development Tools:** Git, GitHub, Linux, Jupyter, Anaconda, Docker (basic)
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghonim0007&show_icons=true&theme=default)
+
+---
+
+*Available upon request: references, academic transcripts, and certification documents.*
