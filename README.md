@@ -34,7 +34,6 @@ Geographic Information Systems (GIS) Developer with a specialization in Full-Sta
 **Data Analysis & Scientific Libraries:** Pandas, NumPy, OpenCV  
 **Development Tools:** Git, GitHub, Linux, Jupyter, Anaconda, Docker (basic)
 
-
 ## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghonim0007&show_icons=true&theme=default)
